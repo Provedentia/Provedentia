@@ -35,6 +35,7 @@ I'm a Computer Science & Math student at Northwestern University, building fast,
 
 ### 📫 Connect With Me
 
+- 🔭 [Portfolio Website](https://suhaibaden.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/suhaibaden)  
 - 🧠 [GitHub](https://github.com/Provedentia)  
 - 📧 suhaibaden3@gmail.com  
